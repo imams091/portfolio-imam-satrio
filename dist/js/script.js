@@ -19,3 +19,5 @@ burger.addEventListener('click', function(){
     burger.classList.toggle('burger-active');
     navMenu.classList.toggle('hidden');
 });
+
+//rebuild tailwind : npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
