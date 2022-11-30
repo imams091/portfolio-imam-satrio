@@ -13,7 +13,7 @@ module.exports = {
         dark: '#0f172a',
       },
       screens: {
-        '2xl': '1080px',
+        '2xl': '1600px',
       },
     },
   },
